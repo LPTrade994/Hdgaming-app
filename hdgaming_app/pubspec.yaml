@@ -10,6 +10,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cached_network_image: ^3.2.3
+  flutter_stripe: ^9.3.0
+  http: ^0.13.5
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
+  flutter_secure_storage: ^8.0.0
+  firebase_core: ^2.4.1
+  firebase_messaging: ^14.3.0
+  overlay_support: ^2.0.1
 
 dev_dependencies:
   flutter_test:
